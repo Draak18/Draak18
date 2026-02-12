@@ -70,5 +70,5 @@ Me chamo Alexandre, tenho 18 anos e sou natural de São Paulo. Minha trajetória
 ---
 
 > _⭐ Se você gosta do meu trabalho, considere dar uma estrela em um repositório  
-> > Sempre aberto a colaborações, parcerias e ideias legais_
+> Sempre aberto a colaborações, parcerias e ideias legais_
 
