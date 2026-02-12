@@ -1,8 +1,8 @@
 <!-- Guia de .md: https://www.markdownguide.org/basic-syntax/ -->
 
 # Sobre mim
-🚀 Desensolvedor
-🇧🇷 Brasil
+*🚀 Desensolvedor  
+🇧🇷 Brasil*
 
 Me chamo Alexandre, tenho 18 anos e sou natural de São Paulo. Minha trajetória na tecnologia começou com a formação técnica em **Análise e Desenvolvimento de Sistemas** integrada ao ensino médio, o que me proporcionou uma base sólida desde cedo. Atualmente, sigo evoluindo meus conhecimentos acadêmicos e práticos através da **graduação e projetos pessoais**  
 
