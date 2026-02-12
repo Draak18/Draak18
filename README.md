@@ -1,8 +1,7 @@
 <!-- Guia de .md: https://www.markdownguide.org/basic-syntax/ -->
 
-# Hi 👋, I'm Alexandre
-🇧🇷 Brasil
-
+# Olá
+🇧🇷
 Me chamo Alexandre, tenho 18 anos e sou natural de São Paulo. Minha trajetória na tecnologia começou com a formação técnica em **Análise e Desenvolvimento de Sistemas** integrada ao ensino médio, o que me proporcionou uma base sólida desde cedo. Atualmente, sigo evoluindo meus conhecimentos acadêmicos e práticos através da **graduação** e projetos pessoais
 
 ---
@@ -19,6 +18,7 @@ Me chamo Alexandre, tenho 18 anos e sou natural de São Paulo. Minha trajetória
   <a href="https://www.instagram.com/alexandre_deboletta/">
     <img src="https://img.shields.io/badge/Instagram-@alexandre-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+      
   <a href="https://www.linkedin.com/in/alexandre-deboletta-608511267/">
     <img src="https://img.shields.io/badge/Linkedin-Draak18-181717?style=for-the-badge&logo=inspire&logoColor=white" />
   </a>  
