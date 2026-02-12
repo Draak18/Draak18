@@ -28,10 +28,9 @@ Me chamo Alexandre, tenho 18 anos e sou natural de São Paulo. Minha trajetória
 
 <!-- Icones: https://simpleicons.org/?q=gtml -->
 
-# 🛠️ Conhecimentos
+# 🛠️ Linguagens e Ferramentas
 
-<h3>🎨 Frontend</h3>
-
+<h3>Frontend</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
@@ -41,16 +40,14 @@ Me chamo Alexandre, tenho 18 anos e sou natural de São Paulo. Minha trajetória
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 
-<h3>⚙️ Backend</h3>
-
+<h3>Backend</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<h3>🚀 DevOps & Tools</h3>
-
+<h3>DevOps & Tools</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
