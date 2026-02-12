@@ -1,8 +1,9 @@
 <!-- Guia de .md: https://www.markdownguide.org/basic-syntax/ -->
 
-# Olá,
+# Sobre mim
+🇧🇷  
 Me chamo Alexandre, tenho 18 anos e sou natural de São Paulo. Minha trajetória na tecnologia começou com a formação técnica em **Análise e Desenvolvimento de Sistemas** integrada ao ensino médio, o que me proporcionou uma base sólida desde cedo. Atualmente, sigo evoluindo meus conhecimentos acadêmicos e práticos através da **graduação e projetos pessoais**  
-🇧🇷
+
 ---
 <p align="left">
       <a href="https://github.com/Draak18?tab=followers">
@@ -62,8 +63,8 @@ Me chamo Alexandre, tenho 18 anos e sou natural de São Paulo. Minha trajetória
 ## 📊 Github
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Draak18&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draak18&layout=compact&theme=tokyonight" />
 </p>
 
 
